@@ -19,7 +19,7 @@ function App() {
   // Adding User
   const addUser = () => {
     const originalUsers = [...users];
-    const newUser = { id: 0, name: "Kallen" };
+    const newUser = { id: 0, name: "Kallen new user" };
 
     setUsers([newUser, ...users]);
 
