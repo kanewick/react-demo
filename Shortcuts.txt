@@ -1,0 +1,22 @@
+npm create vite@4.1.0 // creating react project
+
+npm install // installs packages
+npm run dev // runs dev server
+
+npm i bootstrap@5.2.3 // install bootstrap
+npm i react-icons@4.7.1
+
+ES7 Snippet Extension - rafce - create the React component with export into module
+
+npm i immer@9.0.19 - for updating immutable objects using produce and draft
+
+div.mb-3>label.form-label+input.form-control - html snippet
+
+npm i react-hook-form@7.43 - basically form builder "useForm"
+
+validation library for forms - Zod (used to build form schema)
+npm i zod@3.20.6
+
+npm i @hookform/resolvers@2.9.11 - contains schema based validaiton lib
+
+npm i axios@1.3.4 - for creating http requests
